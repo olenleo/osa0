@@ -1,1 +1,3 @@
 # osa0
+Tässä Helsingin yliopiston Full Stack Development-kurssin osan 0 harjoitukset.
+GitHub- sekä Git yleensä ovat uutta minulle joten katsotaan miten tämä onnistuu...
