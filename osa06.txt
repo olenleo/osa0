@@ -1,0 +1,8 @@
+title 0.6 Single Page Application
+note left of selain : Scriptimme tapahtumakäsittelijä lisää viestimme data.json-tiedostoon
+note left of selain : Scriptimme piirtää näin täydennetyn listan uudelleen
+note left of selain : Emme kuitenkaan tilaa oletusarvoista koko sivun uudelleenlatausta
+selain -> palvelin : HTTP POST: https://fullstack-exampleapp.herokuapp.com/new_note_spa
+note right of palvelin : Status 201 created! Jess!
+note right of palvelin : Viestimme siirtyi JSON-muodossa palvelimelle.
+
