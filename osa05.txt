@@ -1,0 +1,10 @@
+title 0.5 Single Page Application - ensi lataus
+selain -> palvelin : HTTP get: https://fullstack-exampleapp.herokuapp.com/spa
+note right of palvelin : status 200! Kaikki ok!
+palvelin --> selain : spa.html
+note left of selain : Rakenne html-muodossa
+palvelin --> selain : main.css
+note left of selain : .css-tiedosto antaa muotoiluohjeet selaimelle 
+palvelin --> selain : spa.js
+note left of selain : Lataamme sovelluksemme logiikan. Scripti käynnistyy heti.\nSovelluksemme muotoilee data.json-tiedoston raakadatan luettavaksi listaksi.
+note left of selain : Selain renderöi listamme
